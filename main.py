@@ -1,4 +1,5 @@
 import csv
+import matplotlib.pyplot as plt
 
 filename = 'data.csv'
 
@@ -17,3 +18,17 @@ with open (filename, 'r') as csvfile:
     print(year)
     #print(line['population'])
     print(population)
+
+plt.plot([2000, 2005, 2010, 2015, 2020],[100,200, 300, 400, 500], label = "Europe", marker = "o")
+
+plt.title("Internet Users per Continent")
+plt.xlabel("Year")
+plt.ylabel("Internet Users")
+plt.legend()
+
+plt.grid(True)
+
+
+plt.tight_layout()
+plt.savefig('Internetperpop.png')
+plt.show()
