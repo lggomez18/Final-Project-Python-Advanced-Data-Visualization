@@ -8,7 +8,9 @@ In this project,
 * Transformed raw CSV data into clear, organized, data-driven visualizations
 * With tutor guidance, applied best practices in code organization to build structured, maintainable solutions
 * Developed clean, scalable code following guided instruction and industry standards
-* Leveraged visual design principles to communicate insights effectively to end users
+* Leveraged visual design principles to communicate insights effectively to end users\
+
+  
   
   With my background in special education and growing interest in **accessibility**, I also explored ways to incorporate inclusive design elements, such as improving font size and color contrast. While this was one of the more challenging aspects of the project, it sparked a **strong interest in aligning data visualization with WCAG accessibility principles**, and I welcome feedback in this area.
   
