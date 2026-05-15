@@ -16,6 +16,6 @@ In this project,
 
 **Due to recent changes on Replit, I am sharing another document with my code.\ 
 
-<a name="Project Replit link" href="https://replit.com/@lggomez180/Python-Advanced-Project#main.py">Project Replit link </a>
-Google collab code --> [https://colab.research.google.com/drive/1IYsZHO6UsIh1QttpFAzPQMLsH1BEkg6e?usp=sharing]
+<a name="Project Replit link" href="https://replit.com/@lggomez180/Python-Advanced-Project#main.py">Project Replit link </a> \
+<a name="Google Collab link" href="https://colab.research.google.com/drive/1IYsZHO6UsIh1QttpFAzPQMLsH1BEkg6e?usp=sharing">Google collab code</a> \
 A copy of the code has been attached to this repository.
