@@ -14,7 +14,8 @@ In this project,
   
   As a beginner transitioning into web development, I recognize that building a strong foundation in Python is essential, and it requires ongoing practice and trial/error. This project reflects both my technical growth and my commitment to creating user-centered, accessible solutions.
 
-**Due to recent changes on Replit, I am sharing another document with my code. 
-Project link --> [https://replit.com/@lggomez180/Python-Advanced-Project#main.py]
+**Due to recent changes on Replit, I am sharing another document with my code.\ 
+
+<a name="Project Replit link" href="https://replit.com/@lggomez180/Python-Advanced-Project#main.py">Project Replit link </a>
 Google collab code --> [https://colab.research.google.com/drive/1IYsZHO6UsIh1QttpFAzPQMLsH1BEkg6e?usp=sharing]
 A copy of the code has been attached to this repository.
